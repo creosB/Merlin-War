@@ -3,6 +3,7 @@
 <p class="has-line-data" data-line-start="4" data-line-end="6">Unity oyun motoru ile yapılmış basit kart oyunu.<br>
 Simple card game made by with unity.</p>
 <hr>
+<a href="https://www.buymeacoffee.com/creos" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <h1 class="code-line" data-line-start=7 data-line-end=8 ><a id="zelikleri_7"></a>Özelikleri</h1>
 <ul>
 <li class="has-line-data" data-line-start="9" data-line-end="10">Kartı canavarın üzerine sürükleyip bırakırsanız canını azaltabilirsiniz.</li>
