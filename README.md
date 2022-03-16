@@ -28,6 +28,7 @@ Simple card game made by with unity.</p>
 (You can review the game from the Source Code file or experience the game from the build file.)</p>
 </blockquote>
 <hr>
+<p class="has-line-data" data-line-start="30" data-line-end="31"><a href="https://artistscompany.itch.io/merlin-war"><img src="https://img.itch.zone/aW1nLzczMzA5NjUucG5n/180x143%23c/9YYw2T.png" alt="Available on itch.io"></a></p>
 <h1 class="code-line" data-line-start=28 data-line-end=29 ><a id="License_28"></a>License</h1>
 <hr>
 <p class="has-line-data" data-line-start="30" data-line-end="32">Herhangi bir yerde paylaşmak, değişiklik yapmak için öncelikle bana ulaşınız.<br>
